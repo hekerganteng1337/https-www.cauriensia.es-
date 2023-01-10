@@ -87,11 +87,11 @@
                 <div class="col-md-8">
                     <div class="row logform">
                         <div class="col-xs-6">
-                            <a href="https://rebrand.ly/okbosku1" rel="nofollow
+                            <a href="https://rebrand.ly/ribet" rel="nofollow
                             noreferrer" target="_blank"><button type="login" class="btn btn-log">LOGIN </button></a>
                         </div>
                         <div class="col-xs-6">
-                            <a href="https://rebrand.ly/okbosku1" rel="nofollow noreferrer" target="_blank"><span class="blink-me"><button type="login" class="btn btn-daf">DAFTAR</button></span></a>
+                            <a href="https://rebrand.ly/ribet" rel="nofollow noreferrer" target="_blank"><span class="blink-me"><button type="login" class="btn btn-daf">DAFTAR</button></span></a>
                         </div>
                     </div>
                 </div>
@@ -117,19 +117,19 @@
             <amp-img layout="intrinsic" height="75" width="75" src="https://i.ibb.co/P9GmVYK/login-icon-2.png" alt="Togel Online login"></amp-img>
             Masuk
         </a>
-        <a href="https://rebrand.ly/okbosku1" rel="nofollow noopener" target="_blank">
+        <a href="https://rebrand.ly/ribet" rel="nofollow noopener" target="_blank">
             <amp-img layout="intrinsic" height="75" width="75" src="https://i.ibb.co/P9xC9m7/promotion.png" alt="bonus Togel Online"></amp-img>
             Bonus
         </a>
-        <a href="https://rebrand.ly/okbosku1" rel="nofollow noopener" target="_blank">
+        <a href="https://rebrand.ly/ribet" rel="nofollow noopener" target="_blank">
             <amp-img class="center" layout="intrinsic" height="50" width="50" src="https://i.ibb.co/F8j12XK/userdaftar.png" alt="daftar slot online Togel Online"></amp-img>
             Daftar
         </a>
-        <a href="https://rebrand.ly/okbosku1" rel="nofollow noopener" target="_blank">
+        <a href="https://rebrand.ly/ribet" rel="nofollow noopener" target="_blank">
             <amp-img layout="intrinsic" height="75" width="75" src="https://i.ibb.co/HCsvZr8/whatsapp.png" alt="whatsapp slot"></amp-img>
             Whatsapp
         </a>
-        <a href="https://rebrand.ly/okbosku1" rel="nofollow noopener" target="_blank">
+        <a href="https://rebrand.ly/ribet" rel="nofollow noopener" target="_blank">
             <amp-img class="live-chat-icon" layout="intrinsic" height="75" width="75" src="https://i.ibb.co/m4CMqL4/live-chat.png" alt="Togel Online livechat"></amp-img>
             Live Chat
         </a>
@@ -140,11 +140,11 @@
                 <div class="col-md-6 pt-3 p-0 text-center">
                     <div class="row">
                         <div class="col-xs-6">
-                        <a href="https://rebrand.ly/okbosku1" target="_blank" rel="nofollow noreferrer">
+                        <a href="https://rebrand.ly/ribet" target="_blank" rel="nofollow noreferrer">
                             <amp-img class="chat" src="https://i.ibb.co/YBq2gs9/livechat-rajatoto.gif" width="168px" height="50px" layout="responsive" alt="togel sgp"></amp-img></a>
                         </div>
                         <div class="col-xs-6">
-                        <a href="https://rebrand.ly/okbosku1" target="_blank" rel="nofollow noreferrer">
+                        <a href="https://rebrand.ly/ribet" target="_blank" rel="nofollow noreferrer">
                             <amp-img class="chat" src="https://i.ibb.co/tHJwgjW/whatsapp-rajatoto.gif" width="168px" height="50px" layout="responsive" alt="Togel Terlengkap"></amp-img></a>   
                         </div>
                     </div>  
